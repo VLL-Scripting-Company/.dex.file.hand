@@ -4,7 +4,7 @@ def get_cody_response(prompt):
     url = "https://api.codybot.ai/v1/ask"
     headers = {
         "Content-Type": "application/json",
-        "Authorization": "Bearer "
+        "Authorization": "Bearer 0XCZ4II8ufJuTqeNVX6VCVbRN4qL9BKXCzQVPlfN"
     }
     data = {
         "prompt": prompt,
